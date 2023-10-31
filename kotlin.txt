@@ -1,1 +1,0 @@
-Nombre: [Tu Nombre]\nCorreo electrónico: [Tu Correo Electrónico]
